@@ -1,0 +1,52 @@
+*,
+html {
+    margin: 0;
+    padding: 0;
+}
+
+.container-foot {
+    height: 100vh;
+    background-color: rgba(208, 241, 20, 0.401);
+}
+
+.h1-foot {
+    background-color: rgba(108, 126, 4, 0.401);
+    font-size: 100px;
+}
+
+.h2-foot-1 {
+    background-color: rgba(108, 126, 4, 0.401);
+    font-size: 37px;
+}
+
+.h2-foot-2 {
+    background-color: rgba(108, 126, 4, 0.401);
+    font-size: 37px;
+}
+
+.h2-foot-3 {
+    background-color: rgba(108, 126, 4, 0.401);
+    font-size: 37px;
+}
+
+.h2-foot-4 {
+    background-color: rgba(108, 126, 4, 0.401);
+    font-size: 37px;
+}
+
+.h2-foot-5 {
+    background-color: rgba(108, 126, 4, 0.401);
+    font-size: 37px;
+}
+
+.h2-foot-6 {
+    background-color: rgba(108, 126, 4, 0.401);
+    font-size: 37px;
+}
+.h2-foot-7 {
+    background-color: rgba(108, 126, 4, 0.401);
+    font-size: 81px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
